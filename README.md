@@ -2,7 +2,7 @@
 
 ## High-Performance .NET SQLite Connector with ORM and Encryption Support
 
-[![dotConnect](https://github.com/devart-connectivity/.github/blob/main/assets/dotconnect_sqlite_cover_green.png)](hhttps://www.devart.com/dotconnect/sqlite/)
+[![dotConnect](https://github.com/devart-connectivity/.github/blob/main/assets/dotconnect_sqlite_cover_green.png)](https://www.devart.com/dotconnect/sqlite/)
 
 [Get Started](https://www.devart.com/dotconnect/sqlite/getting-started.html) | [Explore Features](https://www.devart.com/dotconnect/sqlite/features.html) | [Documentation](https://docs.devart.com/dotconnect/sqlite/GettingStarted.html)
 
