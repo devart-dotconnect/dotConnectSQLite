@@ -1,4 +1,5 @@
-![Nuget Version](https://img.shields.io/nuget/v/Devart.Data.SQLite?color=informational&label=latest)![Installation Count](https://img.shields.io/nuget/dt/Devart.Data.SQLite?color=informational&label=installs&logo=nuget)
+[![Nuget Version](https://img.shields.io/nuget/v/Devart.Data.SQLite?color=informational&label=latest)](https://www.nuget.org/packages/Devart.Data.SQLite) [![Installation Count](https://img.shields.io/nuget/dt/Devart.Data.SQLite?color=informational&label=Devart.Data.SQLite&logo=nuget)](https://www.nuget.org/packages/Devart.Data.SQLite) [![Installation Count](https://img.shields.io/nuget/dt/Devart.Data.SQLite.EFCore?color=informational&label=Devart.Data.SQLite.EFCore&logo=nuget)](https://www.nuget.org/packages/Devart.Data.SQLite.EFCore)
+
 
 ## High-Performance .NET SQLite Connector with ORM and Encryption Support
 
